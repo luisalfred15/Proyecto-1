@@ -1,6 +1,5 @@
 package mazeproyect;
 
-
 /*
 *@autor Diego
 *Clase para inicializar el grafo especifico del laberinto

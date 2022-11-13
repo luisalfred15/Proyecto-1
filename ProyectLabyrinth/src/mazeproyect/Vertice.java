@@ -3,7 +3,7 @@ package mazeproyect;
 
 /*
 *@author Diego
-* Clase que representa cada una de las celdas del laberinto
+*@deprecated No fue necesario emplear esta clase
 */
 public class Vertice {
     public int value;
